@@ -16,6 +16,11 @@ h2 {
   font-weight: bold;
 }
 
+.cost {
+  font-weight: bold;
+  color: blue;
+}
+
 #brushes {
   background-color: mediumspringgreen;
 }
@@ -26,9 +31,4 @@ h2 {
 
 #paint {
   background-color: skyblue;
-}
-
-.cost {
-  font-weight: bold;
-  color: blue;
 }
